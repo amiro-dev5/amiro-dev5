@@ -31,15 +31,6 @@ I am a **Backend Engineer** specialized in building scalable architectures. My m
 | **☕ Student Cafe System** | Smart backend for campus cafeteria to eliminate long queues. | **Django, PostgreSQL, Python** |
 | **🚗 Car Rental Logic** | Advanced booking and fleet management system. | **Python, Django, JS** |
 
----
-
-## 📈 My Coding Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiro-dev5&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiro-dev5&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 <p align="center">
