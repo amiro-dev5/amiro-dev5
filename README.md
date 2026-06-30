@@ -1,6 +1,6 @@
 # <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7100D&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Amir+Seid;AI-Powered+Backend+Engineer;Django+%26+Python+Specialist" alt="Typing SVG" /> </p>
 
-### <p align="center"> 🚀 Transforming Ideas into Intelligent Backend Systems </p>
+### <p align="center">  Transforming Ideas into Intelligent Backend Systems </p>
 
 ---
 
@@ -12,7 +12,7 @@ I am a **Backend Engineer** specialized in building scalable architectures. My m
 
 ---
 
-## 🛠️ Tech Stack & Specialized Tools
+##  Tech Stack & Specialized Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -48,7 +48,7 @@ I am a **Backend Engineer** specialized in building scalable architectures. My m
 
 ---
 
-## 📫 Let's Build Something Great
+##  Let's Build Something Great
 <p align="left">
 <a href="https://t.me/a_miro_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="a_miro_6" height="30" width="40" /></a>
 <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
